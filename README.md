@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<h3 align="left">SKILL<h3>
+
+[![My Skills](https://skillicons.dev/icons?i=c,python,nodejs&theme=light)](https://skillicons.dev)
 <!--
 **ozora-shioyama/ozora-shioyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
